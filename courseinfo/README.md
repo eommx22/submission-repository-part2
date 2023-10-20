@@ -1,3 +1,3 @@
-# University of Helsinki - FUllStackOpen
+# University of Helsinki - FullStackOpen
 
 ## courseinfo
